@@ -1,0 +1,4 @@
+ccxt>=2.0.0
+python-dotenv>=0.19.0
+aiohttp>=3.8.0
+python-telegram-bot>=13.7  # Optional: for Telegram notifications
