@@ -1,8 +1,5 @@
 # Crypto-Arbitrage-Bot
 A **Crypto Arbitrage Bot** that scans multiple exchanges for price differences and identifies profitable arbitrage opportunities. It fetches real-time data, filters the top trades, and sends Telegram alerts. 🚀
-# Crypto Arbitrage Bot
-
-This Crypto Arbitrage Bot automatically detects and notifies users of arbitrage opportunities between different cryptocurrency exchanges. It fetches real-time ticker prices, identifies profitable trades, and sends alerts via Telegram.
 
 ## Features
 
